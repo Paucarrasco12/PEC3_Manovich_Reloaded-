@@ -17,7 +17,7 @@ Para este PEC nos ponemos las gafas de Manovich nuevamente, para buscar nuevos e
 
 ![ gafas portada](https://i.blogs.es/99503d/hololens-2-3/450_1000.jpeg) 
 
-Mi elección para este proyecto es de dos hibridaciones digitales: por una parte el videojuego Fifa donde podemos ver cómo incorpora la retransmisión convencional del futbol (perspectivas, cámaras, repetición de jugadas, entre otros). La segunda el arte digital mediante NFT’s, nos centraremos en el apartado de las subaste mediante la plataformas como Binance NFT. 
+Mi elección para este proyecto es de dos hibridaciones digitales: por una parte el videojuego Fifa donde podemos ver cómo incorpora la retransmisión convencional del futbol, . La segunda el arte digital mediante NFT’s, nos centraremos en el apartado de las subaste mediante la plataformas como Binance NFT. 
 
 ## Re-descubriendo la hibridacion: FIFA 
 
@@ -26,6 +26,19 @@ Es unos de los juegos más populares fútbol y de los videojuegos. La primera ve
 
 
 ![FIFA portada](https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2020/10/analisis-fifa-21-ps4-xbox-one-pc-2090999.jpg?itok=ZqGeByn_) 
+
+
+### En qué consiste el juego? 
+
+El juego tiene diferentes modos de juego pero todos se basan con las normas oficiales de la UEFA es decir: 
+
+-Se juega 11 contra 11. 
+
+-Se juega 90 minutos ficticios, es decir, tú puedes elegir cuánto tiempo quieres que dure cada parte, pero el propio juego cambia la velocidad del contador para que siempre veamos 90 minutos en el contador. Por ejemplo si nosotros ponemos que dure cada parte 15 minutos, cuando nosotros veamos qué llevamos 60 minutos en el contador, en la vida real ha pasado 20 minutos.  
+
+-Hay fuera de juegos, faltas, tarjetas amarillas y rojas. 
+
+-Tienes un limite de cambios, la normativa actual son 5 cambios.  
 
 
 
