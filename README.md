@@ -40,6 +40,20 @@ El juego tiene diferentes modos de juego pero todos se basan con las normas ofic
 
 -Tienes un limite de cambios, la normativa actual son 5 cambios.  
 
+Dentro del propio juego te permite jugar diferentes modalidades que son: partida rápida, modo carrera, Ultimate  Team. 
+
+Partida rápida 
+
+Te permite seleccionar dos equipos y juega contra la CPU(el propio juego) o un amigo. En este modo podrás jugar partidos con equipos del todo el mundo, tanto con primeras como con segundas categorías . También, te da la posibilidad de jugar series y enfrentamientos a ida y vuelta.
+
+Modo carrera 
+
+Consiste en crear un club de futbol desde el inicio, siendo tu, presidente haciendo fichajes y vendiendo jugadores, entrenador y jugador. Compites contra la CPU y inicias la carrera desde categorías inferiores y a medida que vas jugando se sube la dificultad. 
+
+
+Ultimate  Team.
+
+Este también consiste en crear tu propio equipo pero la diferencia con el anterior es que se juega modo online contra gente de tu mismo nivel. 
 
 
 
